@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="On November 25th, Ethan Jerry announced that Echo, a communication platform integrating messaging, calling, group management, search, and AI, is officially being discontinued. The company citing low user engagement, persistent technical issues, and high maintenance costs. "Echo declined greatly in user engagement. If you mix that with high-maintenance, and high costs, you get weight" Says Jerry, in a statement "shutting down Echo woulg give More4u Productions the resources to improve Deacor, Fortic and other productions currently being done behind the scenes." If you have any questions, comments, or concerns, email hello@more4uproductions.dedyn.io or call +1 289-236-3760">
+  <title>Dayline Prototype Release | More4u Productions</title>
+  <link rel="stylesheet" href="../assets/site.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="../index.html">
+      <img src="../assets/more4u-logo-transparent.png" alt="More4u Logo">
+      <span>MORE4U <small>PRODUCTIONS</small></span>
+    </a>
+    <nav class="nav">
+      <a href="../index.html#work">Work</a>
+      <a href="../about.html">About</a>
+      <a href="../updates.html">Updates</a>
+      <a href="../index.html#contact">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <article class="article shell">
+      <p class="kicker">SEPTEMBER 2026 · RELEASE</p>
+      <h1>Dayline prototype now available for public feedback.</h1>
